@@ -3,8 +3,8 @@
 
 """ test script to fetch tweets based on hashtags or keywords -- using python-twitter library.
     The script requires that a target DATABASE and SCHEMA already exist.
-    In this case information found using the 'pizza' keyword is stored into the
-    'twitter' schema, 'pizza' table of the GISDATA database on ninsrv16
+    In this case information found using the 'trondheim' keyword is stored into the
+    'twitter' schema, 'trondheim' table of the GISDATA database on ninsrv16
 """
 
 import twitter
